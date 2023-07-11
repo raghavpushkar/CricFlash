@@ -1,0 +1,18 @@
+{
+    "name": "CricFlash",
+    "version": "1.0.0",
+    "description": "Check Live Cricket Updates",
+    "manifest_version": 3,
+    "author": "Raghav Pushkar",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Live Cricket Updates"
+    },
+    "icons": {
+        "128":"./icons/128.png",
+        "48":"./icons/48.png",
+        "32":"./icons/32.png",
+        "16":"./icons/16.png"
+    }
+
+}
